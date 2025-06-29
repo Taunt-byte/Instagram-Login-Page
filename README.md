@@ -44,9 +44,9 @@ Ideal para praticar e demonstrar:
 ## 🖼️ Screenshots
 
 ### Modo Claro
-![Light mode](public/Img-Client/White.png)
+![Light mode](Public/Img-Client/White.png)
 
-![Light mode](public/Img-Client/White-Mobile.png)
+![Light mode](Public/Img-Client/White-Mobile.png)
 
 ### Modo Escuro
 ![Dark mode](Public/Img-Client/Dark.png)
